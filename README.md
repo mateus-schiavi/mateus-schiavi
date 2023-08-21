@@ -1,4 +1,4 @@
-## Olá, pessoal! Me chamo Mateus, sou do Brasil e estou estudando programação para ser um programador full-stack
+## Olá, pessoal! Me chamo Mateus e estou estudando programação para ser um programador full-stack
 
 - 📔 Atualmente trabalho como professor particular de inglês
 - 📖 Estou no quarto semestre do curso de Applied Technology da BYU-Idaho
