@@ -20,9 +20,10 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="ARDUINO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-</div>
 
 [Snake animation](https://github.com/mateus-schiavi/mateus-schiavi/actions/workflows/blank.yml)
+</div>
+
 
 
 
