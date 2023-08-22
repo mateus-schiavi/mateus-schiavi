@@ -22,5 +22,7 @@
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+[Snake animation](https://github.com/mateus-schiavi/mateus-schiavi/actions/workflows/blank.yml)
+
 
 
