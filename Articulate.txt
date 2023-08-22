@@ -1,0 +1,79 @@
+C# is a object-oriented programming (OOP), and it includes four basic, but very important concepts: Abstraction, Encapsulation, Inheritance and Polymorphism.
+
+Abstraction makes reference to the process of hiding implementation details and exposing only the relevant information to the user. In C#, abstraction can be achieved through abstract classes and interfaces. Abstract classes provide a way to define a common interface for a set of subclasses, while interfaces define a contract that a class must implement. Through abstraction, the code can be modular, maintainable, and scalable.
+Encapsulation is resumed as the process of hiding internal details and protecting data from unauthorized access. In C#, encapsulation can be achieved by using access modifiers such as public, private, protected, and internal. Public members can be accessed from any class of the code, private members can be accessed only within the class, and protected members can be accessed within the class and its subclasses.
+Inheritance is the process of creating a new class from an existing class. In C#, inheritance can be achieved using the "class" keyword and the colon operator. The new class, known as the derived class, inherits the properties and methods of the base class, and can also add new properties and methods. Inheritance allows us to reuse code, organize code into logical hierarchies, and create specialized classes from existing ones.
+And, for last, but not less important,
+Polymorphism is the ability of an object to take on many forms. In C#, polymorphism can be achieved through method overloading and method overriding. Method overloading allows us to define multiple methods with the same name but different parameters, while method overriding allows us to redefine a method in a subclass that was already defined in the superclass. Polymorphism allows us to write generic code that can work with different types of objects, and makes the code more flexible and extensible.
+
+Down below are examples of each concept:
+public abstract class Calculator
+{
+    private double value1;
+    private double value2;
+
+    public double Value1
+    {
+        get { return value1; }
+        set { value1 = value; }
+    }
+
+    public double Value2
+    {
+        get { return value2; }
+        set { value2 = value; }
+    }
+    // Abstract method to calculate a property
+    public abstract double Calculate(double value1, double value2);
+}
+public class MolarityCalculator : Calculator
+{
+    private double moles;
+    private double volume;
+
+    public double Moles
+    {
+        get { return moles; }
+        set { moles = value; }
+    }
+
+    public double Volume
+    {
+        get { return volume; }
+        set { volume = value; }
+    }
+
+
+    public override double Calculate(double moles, double volume)
+    {
+        Moles = moles;
+        Volume = volume;
+        return moles / volume;
+    }
+}
+public class PressureCalculator : Calculator
+{
+    private double force;
+    private double area;
+
+    public double Force
+    {
+        get { return force; }
+        set { force = value; }
+    }
+
+    public double Area
+    {
+        get { return area; }
+        set { area = value; }
+    }
+
+    public override double Calculate(double force, double area)
+    {
+        Force = force;
+        Area = area;
+        return force / area;
+    }
+}
+
+As can be seen in the class above, the four concepts are applied: abstraction, encapsulation, inheritance and polymorphism.
