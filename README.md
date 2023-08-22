@@ -21,7 +21,6 @@
   <img align="center" alt="ARDUINO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 
-![Snake animation](https://github.com/mateus-schiavi/mateus-schiavi/blob/main/.github/workflows/blank.yml)
   
 </div>
 
