@@ -3,7 +3,8 @@
 - 📔 Atualmente trabalho como professor particular de inglês
 - 📖 4º semestre do curso de Applied Technology da BYU-Idaho
 - 📖 3º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
-- 💻 2º módulo do curso de Desenvolvimento Web na FUNVAL INTERNACIONAL 
+- 💻 2º módulo do curso de Desenvolvimento Web na FUNVAL INTERNACIONAL
+- 💻 Aprendendo comandos gits 
 - 🗣️ Sou fluente em inglês
 - 📖 Estou aprendendo espanhol, francês, alemão, italiano e coreano através do duolingo
 
@@ -22,7 +23,7 @@
   <img align="center" alt="ARDUINO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="GITHUB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+   <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 
