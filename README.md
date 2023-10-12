@@ -24,6 +24,9 @@
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="FIGMA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg">
+  <img align="center" alt="NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  
 </div>
 
 
