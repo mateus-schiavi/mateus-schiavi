@@ -3,7 +3,6 @@
 - 📔 Atualmente trabalho como professor particular de inglês
 - 📖 4º semestre do curso de Applied Technology da BYU-Idaho
 - 📖 3º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
-- 💻 2º módulo do curso de Desenvolvimento Web na FUNVAL INTERNACIONAL
 - 💻 Aprendendo comandos gits 
 - 🗣️ Sou fluente em inglês
 - 📖 Estou aprendendo espanhol, francês, alemão, italiano e coreano através do duolingo
