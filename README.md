@@ -5,7 +5,6 @@
 - 📖 4º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
 - 💻 Aprendendo comandos gits 
 - 🗣️ Sou fluente em inglês
-- 📖 Estou aprendendo espanhol, francês, alemão, italiano e coreano através do duolingo
 
 <div align="center">
   <a href="https://github.com/mateus-schiavi">
