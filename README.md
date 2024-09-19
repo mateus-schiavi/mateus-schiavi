@@ -1,8 +1,8 @@
 ## Olá, pessoal! Me chamo Mateus e estou estudando programação para ser um programador full-stack
 
 - 📔 Atualmente trabalho como professor particular de inglês
-- 📖 4º semestre do curso de Applied Technology da BYU-Idaho
-- 📖 4º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
+- 📖 6º semestre do curso de Applied Technology da BYU-Idaho
+- 📖 5º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
 - 💻 Aprendendo comandos gits 
 - 🗣️ Sou fluente em inglês
 
