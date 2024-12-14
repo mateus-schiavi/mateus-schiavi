@@ -1,6 +1,5 @@
 ## Olá, pessoal! Me chamo Mateus e estou estudando programação para ser um programador full-stack
 
-- 📔 Atualmente trabalho como estagiário na WorkGroup, desenvolvendo sites em WordPress
 - 📖 6º semestre do curso de Applied Technology da BYU-Idaho
 - 📖 5º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
 - 💻 Aprendendo comandos gits 
