@@ -1,9 +1,10 @@
 ## Olá, pessoal! Me chamo Mateus e estou estudando programação para ser um programador full-stack
 
-- 📖 6º semestre do curso de Applied Technology da BYU-Idaho
-- 📖 5º semestre do curso de Engenharia da Computação da Univesp - Pólo Suzano - SP - BR
-- 💻 Aprendendo comandos gits 
-- 🗣️ Sou fluente em inglês
+- 📖 Software Development - BYU
+- 📖 Engenharia da Computação - UNIVESP
+- 💻 Comandos gits 
+- 🗣️ Inglês
+- 🗣️ Espanhol
 
 <div align="center">
   <a href="https://github.com/mateus-schiavi">
